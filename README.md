@@ -209,6 +209,6 @@ CI/CD auto-deploys on every push to `main`.
 ## 👩‍💻 Author
 **Lakshya Deepika P** — Backend & AI Engineer
 - GitHub: [github.com/Deepika9532](https://github.com/Deepika9532)
-- LinkedIn: [linkedin.com/in/lakshya-deepika]([https://linkedin.com/in/lakshya-deepika](https://www.linkedin.com/in/deepika-p-7171052ba/))
+- LinkedIn: [[linkedin.com/in/lakshya-deepika](https://www.linkedin.com/in/deepika-p-7171052ba/)]([https://linkedin.com/in/lakshya-deepika](https://www.linkedin.com/in/deepika-p-7171052ba/))
 - Email: lakshyadeepika042@gmail.com
 "# fastapi-recommender" 
